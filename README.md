@@ -1,19 +1,19 @@
-# Advanced Topics
+# 🚀 Advanced Topics
 
-A collection of advanced Python projects and scripts covering machine learning, multithreading, and web crawling.
+🧠 A collection of advanced Python projects and scripts covering machine learning, multithreading, and web crawling.
 
-## Features
+## ⚙️ Features
 
-- **ML Random Forests**  
+- 🌲 **ML Random Forests**  
   Implementation or usage of Random Forest algorithms for classification or regression tasks using scikit-learn.
 
-- **Multi-threaded Parser**  
+- 🧵 **Multi-threaded Parser**  
   Efficient parsing of data or files using Python’s multithreading capabilities to improve performance.
 
-- **Web Crawler**  
+- 🕷️ **Web Crawler**  
   A script to crawl web pages and extract data using `requests` and `BeautifulSoup`.
 
-## Getting Started
+## 🚀 Getting Started
 
 Clone the repository:
 
